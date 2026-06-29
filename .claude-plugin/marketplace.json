@@ -1,0 +1,14 @@
+{
+  "name": "ppt",
+  "owner": {
+    "name": "yebin-bit"
+  },
+  "description": "PowerPoint 제작 스킬 마켓플레이스.",
+  "plugins": [
+    {
+      "name": "pptx-toolkit",
+      "source": "./plugins/pptx-toolkit",
+      "description": "PPT 덱 제작 지휘자(ppt-builder) + 차트 양식 복제 엔진(pptx-chart-template-filler) + 브랜드 테마 엔진(pptx-theme-engine)."
+    }
+  ]
+}

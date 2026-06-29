@@ -1,0 +1,7 @@
+{
+  "name": "pptx-toolkit",
+  "description": "PowerPoint 덱 제작 툴킷. 시작 단계(템플릿 설정 + design.md)부터 엔진 선택(차트 양식 복제 / 브랜드 테마 생성 / 정적 편집)까지 지휘하는 ppt-builder와, 검증된 엔진 두 개(pptx-chart-template-filler, pptx-theme-engine)를 함께 제공.",
+  "author": {
+    "name": "yebin-bit"
+  }
+}
